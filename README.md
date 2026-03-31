@@ -1,8 +1,8 @@
 💻 「ボンアイエフ（Bon IF）」Webサイト クローン開発プロジェクト
 
-🔗https://eunni0103.github.io/bon/
-
 開発時期 : 2026.02
+
+🔗https://eunni0103.github.io/bon/
 
 技術スタック : HTML5, CSS3, Vanilla JavaScript, JSON 
 
